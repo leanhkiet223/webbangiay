@@ -1,0 +1,16 @@
+footer{
+    height: 270px;
+    border-bottom: 5px double red;
+    background-color: black;
+    color: orange;
+    text-align: center;
+    line-height: 25px;
+    clear: both;
+}
+p{
+    margin: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+i{
+    margin: 5px;
+}

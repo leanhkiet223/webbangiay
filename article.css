@@ -1,0 +1,34 @@
+article>.PH{
+    width: 33%;
+    float: left;
+}
+article>.PH>.SP{
+    border-top-width: 3px;
+    border-radius: 10px;
+    border: 0px outset white;
+    box-shadow: 5px, gray inset;
+    padding: 0px;
+    margin: 25px;
+    text-align: center;
+}
+article>.PH>.SP img{
+    
+    width: 400px;
+    height: 350px;
+}
+.ten{
+    font-size: larger;
+    font-variant: normal;
+    color: black;
+}
+.gia{
+    
+    font-weight: bold;
+    font-size: larger;
+}
+article>.PH>.SP :hover{
+    color: tomato;
+}
+.PH:hover{
+    box-shadow: 5px 5px 5px rgb(202, 189, 189);
+}
